@@ -3,7 +3,7 @@
    Minimal highest-temp aggregator for Polymarket
    ═══════════════════════════════════════════════════════════════ */
 
-const API = '';
+const API = 'https://binary-width-donations-keeps.trycloudflare.com';
 const REFRESH_SECONDS = 60;
 const CITIES = ['london', 'paris', 'dallas', 'miami'];
 
