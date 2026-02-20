@@ -1,0 +1,19 @@
+{
+  "name": "temp-terminal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "client": "node ./node_modules/vite/bin/vite.js --port 5173",
+    "build": "node ./node_modules/vite/bin/vite.js build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
