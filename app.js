@@ -2,7 +2,7 @@
    MTWP — App Logic (v2.1 - On-Demand Loading)
    ═══════════════════════════════════════════════════════════════ */
 
-const API = 'https://binary-width-donations-keeps.trycloudflare.com';
+const API = 'https://monkey-receivers-quantitative-editions.trycloudflare.com';
 const REFRESH_SECONDS = 60;
 const CITIES = ['london', 'paris', 'dallas', 'miami'];
 
